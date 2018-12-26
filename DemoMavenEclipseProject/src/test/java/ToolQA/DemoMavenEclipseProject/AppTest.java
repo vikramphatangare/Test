@@ -1,5 +1,5 @@
 package ToolQA.DemoMavenEclipseProject;
-
+import static org.testng.Assert.assertTrue;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
