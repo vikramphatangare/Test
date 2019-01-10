@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="44073" started-at="2019-01-10T11:26:33Z" finished-at="2019-01-10T11:27:17Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="44073" started-at="2019-01-10T11:26:33Z" finished-at="2019-01-10T11:27:17Z">
+      <class name="Testcases.Suite2Test">
+        <test-method status="PASS" signature="add()[pri:0, instance:Testcases.Suite2Test@3567135c]" name="add" duration-ms="1" started-at="2019-01-10T16:57:17Z" finished-at="2019-01-10T16:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:Testcases.Suite2Test@3567135c]" name="sub" duration-ms="0" started-at="2019-01-10T16:57:17Z" finished-at="2019-01-10T16:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- Testcases.Suite2Test -->
+      <class name="Testcases.Suite1Test">
+        <test-method status="PASS" signature="startup()[pri:0, instance:Testcases.Suite1Test@2c6a3f77]" name="startup" is-config="true" duration-ms="9186" started-at="2019-01-10T16:56:33Z" description="Initiate the Browser" finished-at="2019-01-10T16:56:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="loginToApp()[pri:0, instance:Testcases.Suite1Test@2c6a3f77]" name="loginToApp" duration-ms="5205" started-at="2019-01-10T16:56:43Z" description="Verify Login functionality" finished-at="2019-01-10T16:56:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:Testcases.Suite1Test@2c6a3f77]" name="startup" is-config="true" duration-ms="7459" started-at="2019-01-10T16:56:48Z" description="Initiate the Browser" finished-at="2019-01-10T16:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="SearchProduct()[pri:0, instance:Testcases.Suite1Test@2c6a3f77]" name="SearchProduct" duration-ms="3040" started-at="2019-01-10T16:56:55Z" description="Verify Product Search functionality" finished-at="2019-01-10T16:56:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchProduct -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:Testcases.Suite1Test@2c6a3f77]" name="startup" is-config="true" duration-ms="11743" started-at="2019-01-10T16:56:58Z" description="Initiate the Browser" finished-at="2019-01-10T16:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="addToCart()[pri:0, instance:Testcases.Suite1Test@2c6a3f77]" name="addToCart" duration-ms="7416" started-at="2019-01-10T16:57:10Z" description="Verify Product Search and Add to Cart functionality" finished-at="2019-01-10T16:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+      </class> <!-- Testcases.Suite1Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

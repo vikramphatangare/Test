@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16802" started-at="2019-01-10T10:37:02Z" finished-at="2019-01-10T10:37:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16802" started-at="2019-01-10T10:37:02Z" finished-at="2019-01-10T10:37:18Z">
+      <class name="Testcases.testSuit1">
+        <test-method status="PASS" signature="startup()[pri:0, instance:Testcases.testSuit1@2a5ca609]" name="startup" is-config="true" duration-ms="9866" started-at="2019-01-10T16:07:02Z" description="Initiate the Browser" finished-at="2019-01-10T16:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="loginToApp()[pri:0, instance:Testcases.testSuit1@2a5ca609]" name="loginToApp" duration-ms="6921" started-at="2019-01-10T16:07:12Z" description="Verify Login functionality" finished-at="2019-01-10T16:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+      </class> <!-- Testcases.testSuit1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
